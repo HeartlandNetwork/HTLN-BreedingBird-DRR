@@ -5,8 +5,11 @@ birds. The plan is to create R scripts that will serve as external QA/QC
 tests of the breeding bird data set. The final dataset will be published 
 on NPS IRMA Datastore.
 
+See also
+
+https://github.com/HeartlandNetwork/HTLN-BreedingBird-Data-Package
+
 # Notes 
-#---------------
 
 20230613
 
